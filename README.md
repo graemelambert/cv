@@ -13,7 +13,7 @@ Kresko is a proud member of thebestof Bury and officially recognised as one of t
 Kresko specialise in creating e-commerce websites, building mobile and web applications and providing powerful and scalable website hosting solutions to meet any demand and budget and to help your company grow.
 
 Some of our clients require us to sign non-disclosure agreements so we can't be too specific about the work that we have done for them, but an example of some of the projects completed for clients through Kresko include;  
-- Built a bespoke React application into Magento 1.9 for an after-care product as part of a wider strategy to move the frontend to a completely standalone setup interfacing with a headless Magento backend
+- Built a bespoke React application for an after-care product into a Magento 1.9 frontend, which used Twitter Bootstrap, as part of a wider strategy to move the frontend to a completely standalone setup interfacing with a headless Magento backend
 - subscription system for notifying a maximum of 5 people when a product is back in stock and giving each person a limited amount of exclusive time to buy before it moves on to the next person (Magento 1.9)
 - rewritten the Magento product page from scratch to move away from the mess of core Magento - this meant the templates were very lean and clean and easy to extend with a small amount of layout XML (Magento 1.9)
 - MetaPack integration written for Magento 2 client
@@ -151,6 +151,7 @@ Responsibilities:
 - Node.js
 - React
 - React Native
+- Twitter Bootstrap
 - Laravel / Lumen
 - Codeigniter
 - MySQL
@@ -177,7 +178,9 @@ I have been a school governor at St John with St Mark Church of England primary 
 
 I was also part of the team of governors who shortlisted and interviewed candidates for the Deputy Head Teacher position.
 
-### Bolton Bulls Wheelchair Basketball Club
-I have been a player for Bolton Bulls since the start of the 2014-15 season and before the 2015-16 season I took on the position of Treasurer for the charity.
+### The Bulls Disabled Sports Club
+I have been a player for The Bulls since the start of the 2014-15 season and before the 2015-16 season I took on the position of Treasurer for the charity.
 
 At the start of the 2016-17 season, I also took on the position of Assistant Coach before moving on to be the Head Coach from the 2017-18 season.
+
+I have also been an integral part of the recent rebranding from "Bolton Bulls" to "The Bulls", working with a design agency on the new logo and branding guidelines and working on a strategy to build the brand up to be more attractive to corporate sponsors.
