@@ -17,7 +17,8 @@ Some of our clients require us to sign non-disclosure agreements so we can't be 
 - subscription system for notifying a maximum of 5 people when a product is back in stock and giving each person a limited amount of exclusive time to buy before it moves on to the next person (Magento 1.9)
 - rewritten the Magento product page from scratch to move away from the mess of core Magento - this meant the templates were very lean and clean and easy to extend with a small amount of layout XML (Magento 1.9)
 - MetaPack integration written for Magento 2 client
-- Mobile app built in React Native for a Magento 2 client 
+- Mobile app built in React Native for a Magento 2 client
+- Bespoke PHP middleware application for a client to handle data transfer between WMS, ERP and other internal services including the Magento 2 website
 
 ### Missguided Ltd
 Job Title: Technical Team Lead  
