@@ -19,6 +19,8 @@ Some of our clients require us to sign non-disclosure agreements so we can't be 
 - MetaPack integration written for Magento 2 client
 - Mobile app built in React Native for a Magento 2 client
 - Bespoke PHP middleware application for a client to handle data transfer between WMS, ERP and other internal services including the Magento 2 website
+- Serverless application deployed in AWS using Claudia JS, specifically utilising AWS Gateway, AWS Lambda, AWS SNS and AWS RDS
+- Node application written to generate PDFs based on JSON data supplied via AWS SQS and then upload the result to an AWS S3 bucket
 
 ### Missguided Ltd
 Job Title: Technical Team Lead  
@@ -30,6 +32,7 @@ Responsibilities and Achievements:
 - Introduced branching strategy and ideal development workflow
 - Recruitment of new developers
 - Supporting and training developers
+- Worked closely with architects and devops engineers on performance optimisation within Magento and the wider hosting stack in AWS
 
 ### Missguided Ltd
 Job Title: Back End Software Engineer  
