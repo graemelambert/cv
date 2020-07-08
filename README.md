@@ -3,14 +3,22 @@ LinkedIn: https://www.linkedin.com/in/graemelambert
 
 ## Employment History
 
+### We Do Code Ltd
+<a href="https://www.wedocode.co.uk" target="_blank"><img alt="We Do Code" src="https://s3-eu-west-2.amazonaws.com/wdc-website-upload/wp-content/uploads/2020/06/22122411/we-do-code-logo-01-1.png" height="100"></a>  
+Job Title: Creative Director  
+Start Date: 04/03/2020  
+End Date: present  
+
+We Do Code were formed in April 2020 by three software developers; David Beere, Tamas Dobo and Graeme Lambert.  All three have years of experience across a range of different areas of software development and each specialises in their own area.
+
+As Creative Director, it is my responsibility to grow our brand and ensure that we are advertising and marketing our brand in the right way, at the right times.
+
+Along with those duties, of course being a software developer I am also actively involved in the software development projects that we secure.
+
 ### Kresko Ltd
 Job Title: Director  
 Start Date: 04/09/2017  
 End Date: present  
-
-Kresko is a proud member of thebestof Bury and officially recognised as one of the best businesses in Bury.
-
-Kresko specialise in creating e-commerce websites, building mobile and web applications and providing powerful and scalable website hosting solutions to meet any demand and budget and to help your company grow.
 
 Some of our clients require us to sign non-disclosure agreements so we can't be too specific about the work that we have done for them, but an example of some of the projects completed for clients through Kresko include;  
 - Built a bespoke React application for an after-care product into a Magento 1.9 frontend, which used Twitter Bootstrap, as part of a wider strategy to move the frontend to a completely standalone setup interfacing with a headless Magento backend
